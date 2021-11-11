@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636411853 source:d:\c++ studia\p08 Œwirad aldona\main.cpp
+	<iostream>
+	<fstream>
+	<set>
+	<vector>
+	<iterator>
+	<string>
+	<time.h>
+	<algorithm>
+	<functional>
+
